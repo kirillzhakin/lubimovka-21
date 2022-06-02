@@ -6,3 +6,4 @@
 - Кошелев Антон [github] (https://github.com/antonn1985)
 - Жакин Кирилл [github] (https://github.com/kirillzhakin)
 - Владислав Самохвалов [github] (https://github.com/Samokhvalov0137)
+
