@@ -1,3 +1,7 @@
 .footer__navigation-column {
-    
+
+}
+
+.footer__navigation-column:nth-child(2n) {
+    margin-left: 20px;
 }
