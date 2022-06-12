@@ -1,3 +1,7 @@
 .footer__adress {
-    
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    width: 125px;
+    margin: 16px 0 0 0;
 }

@@ -1,3 +1,5 @@
 .footer__info {
-    
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 115px 32px 210px; 
 }

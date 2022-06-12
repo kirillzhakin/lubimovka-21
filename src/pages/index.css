@@ -5,11 +5,16 @@
 @import url(../blocks/social/__links/social__links.css);
 @import url(../blocks/social/__link/social__link.css);
 @import url(../blocks/social/__text/social__text.css);
+@import url(../blocks/social/__text/_top/social__text_top.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__icons/footer__icons.css);
 @import url(../blocks/footer/__logo/footer__logo.css);
 @import url(../blocks/footer/__icons-group/footer__icons-group.css);
-@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__icon-1/footer__icon-1.css);
+@import url(../blocks/footer/__icon-2/footer__icon-2.css);
+@import url(../blocks/footer/__icon-3/footer__icon-3.css);
+@import url(../blocks/footer/__icon-4/footer__icon-4.css);
+@import url(../blocks/footer/__icon-5/footer__icon-5.css);
 @import url(../blocks/footer/__info/footer__info.css);
 @import url(../blocks/footer/__adress-group/footer__adress-group.css);
 @import url(../blocks/footer/__place/footer__place.css);
@@ -17,6 +22,7 @@
 @import url(../blocks/footer/__navigation/footer__navigation.css);
 @import url(../blocks/footer/__navigation-column/footer__navigation-column.css);
 @import url(../blocks/footer/__navigatiom-item/footer__navigatiom-item.css);
+@import url(../blocks/footer/__navigatiom-link/footer__navigatiom-link.css);
 @import url(../blocks/footer/__bottom/footer__bottom.css);
 @import url(../blocks/footer/__signboard/footer__signboard.css);
 @import url(../blocks/footer/__signboard-item/footer__signboard-item.css);
@@ -25,5 +31,3 @@
 @import url(../blocks/footer/__desing-logo/footer__desing-logo.css);
 @import url(../blocks/footer/__desing-autor/footer__desing-autor.css);
 @import url(../blocks/footer/__produce/footer__produce.css);
-@import url(../blocks/footer/__produce-work/footer__produce-work.css);
-@import url(../blocks/footer/__produce-autor/footer__produce-autor.css);
